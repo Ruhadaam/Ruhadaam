@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🌱 I’m currently learning Javascript and NodeJS
+👯 I’m looking to collaborate with other content creators.
+⚡ Fun fact: I love to draw and fitness
+❤️NYC Lover❤️
 
 
 ## 🌐 Socials:
