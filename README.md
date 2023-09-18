@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My first encounter with computers dates back to my childhood, and I have been closely following developments in this field ever since. I have a great passion for technology, and I want to be a part of this adventure...<br>✨ Creating bugs since 2021<br>📚 I'm currently learning Javascript and NodeJS<br>🎯 Goals: to go NYC ❤️</p>
+<p align="left">My first encounter with computers dates back to my childhood, and I have been closely following developments in this field ever since. I have a great passion for technology, and I want to be a part of this adventure...<br>✨ Creating bugs since 2021<br>📚 I'm currently learning Javascript and NodeJS<br>🎯 Goals: go to NYC ❤️</p>
 
 ###
 
