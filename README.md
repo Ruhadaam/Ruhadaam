@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Javascript and NodeJS
+🌱 I’m currently learning Javascript and NodeJS<br>
 👯 I’m looking to collaborate with other content creators.
 ⚡ Fun fact: I love to draw and fitness
 ❤️NYC Lover❤️
