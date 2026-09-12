@@ -1,60 +1,42 @@
-<h1 align="left">Hey There👋 I'm Alperen</h1>
+<div align="center">
+  <h1>Hi there, I'm Alperen Gökçek 👋</h1>
+  <p><strong>Frontend & Mobile Developer</strong> passionate about crafting sleek web applications and performant mobile experiences.</p>
 
-###
-
-<p align="left">My name is Alperen and I'm a Web Developer from Turkey.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">My first encounter with computers dates back to my childhood, and I have been closely following developments in this field ever since. I have a great passion for technology, and I want to be a part of this adventure...<br>✨ Creating bugs since 2021<br>📚 I'm currently learning Javascript and NodeJS<br>🎯 Goals: go to NYC ❤️</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
 
-###
+---
 
-<h2 align="left">Social Media</h2>
+### ⚡ About Me
 
-###
+* 🚀 Building modern web & cross-platform mobile apps with **React**, **Next.js**, and **React Native / Expo**
+* 🛠️ Focused on clean architecture, component design systems, and seamless state management
+* 🧪 Advocating for test-driven code quality and automated CI/CD workflows
+* 📍 Based in Turkey
 
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/alperen-g%C3%B6k%C3%A7ek-806798234/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/mrruhadam" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/bay.ruhadam/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+### 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,git,github,docker,figma" alt="Tech Stack" />
 </div>
 
-###
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ruhadaam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alperen's Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhadaam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with care. Let's connect and build something impactful.</sub>
+</div>
